@@ -27,7 +27,7 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
      <summary> ✨ Most used Languages ✨ </summary>
      <br>
      
-<img align="left" 
+<img 
      src="https://github-readme-stats.vercel.app/api/top-langs?username=OUCyf&layout=compact&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
      
 </details> 

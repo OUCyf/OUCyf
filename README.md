@@ -7,7 +7,7 @@
 <img align="right" 
      src="https://github-readme-stats.vercel.app/api?username=OUCyf&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 <img align="right" 
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=OUCyf&show_icons=true&layout=compact&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=OUCyf&layout=compact&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
 
 ### Hi there 👋
@@ -23,10 +23,11 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Open Source Software
+
 
 <details>
-     
+     <summary>### Open Source Software</summary>
+     <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OUCyf&repo=MCMTpy&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/OUCyf/MCMTpy)
      
   

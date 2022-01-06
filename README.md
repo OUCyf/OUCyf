@@ -21,7 +21,7 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 - 🎓 Used to be a college student at OUC, but now I'm a USTC Student.
 - 👯 Looking to collaborate on Cloud Compuating about cross-correlation.
 - 🔭 Interested in seismology and DAS. Recent focus on ambient noise montoring and imaging.
-- ✍🏻 I will write my personal thoughts on Programming & Seismology in my Personal Blog...(working on it)
+- ✍🏻 I will write my personal thoughts on Programming & Seismology in my Personal Blog...(working)
 
 <details>
      <summary> ✨ Most used Languages ✨ </summary>

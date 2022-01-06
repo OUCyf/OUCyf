@@ -17,10 +17,10 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 - 📫 How to reach me: yinfu@mail.ustc.edu.cn.
 - ⛵ Encourage for open source collaborations.
 - 🤔 Currently looking for a PhD. position in US.
+- 🎵 By the way, I'm a big fan of Taylor Swift and Jay Chou!
 - 🎓 Used to be a college student at OUC, but now I'm a USTC Student.
 - 👯 Looking to collaborate on Cloud Compuating about cross-correlation.
 - 🔭 Interested in seismology and DAS. Recent focus on ambient noise montoring and imaging.
-- 🎵 By the way, I'm a big fan of Taylor Swift and Jay Chou!
 - ✍🏻 I will write my personal thoughts on Programming & Seis in my Personal Blog...(working on it)
 
 <details>
@@ -31,7 +31,8 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OUCyf&repo=MCMTpy&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/OUCyf/MCMTpy)
      
-  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OUCyf&repo=SeisFlow&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/OUCyf/SeisFlow)
+     
 </details>
 
 ###

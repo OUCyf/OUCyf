@@ -26,7 +26,7 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 
 
 <details>
-     <summary> _**Open Source Software**_ </summary>
+     <summary> ✨ Open Source Software ✨ </summary>
      <br>
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OUCyf&repo=MCMTpy&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/OUCyf/MCMTpy)
@@ -35,6 +35,6 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 </details>
 
 ###
-[Bilibili @ 双笙子佯谬](https://space.bilibili.com/263032155/) | [Twitter @ archibate](https://twitter.com/archibate) | [Gitee @ archibate](https://gitee.com/archibate) | [Steam @ archibate](https://steamcommunity.com/id/archibate) | [Zhihu @ 幼儿园理化笙](https://www.zhihu.com/people/di-san-miao-mo-de-shuang-qu-zheng-qie-43) | [WeChat @ tanh233](/)
+[Email @ yinfu@mail.ustc.edu.dn](/) | [Twitter](https://twitter.com/Anthony_YFU) | [WeChat @ YinFu976360504](/)
 
 

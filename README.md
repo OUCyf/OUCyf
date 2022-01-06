@@ -3,10 +3,7 @@
 
 ### Hi there 👋
 
-
-**OUCyf/OUCyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

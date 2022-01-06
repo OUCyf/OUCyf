@@ -15,8 +15,8 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 
 - 💬 Ask me about seismology.
 - 📫 How to reach me: yinfu@mail.ustc.edu.cn.
+- ⛵ Encourage for open source collaborations.
 - 🤔 Currently looking for a PhD. position in US.
-- ⛵ Encouraging for open source collaborations.
 - 🎓 Used to be a college student at OUC, but now I'm a USTC Student.
 - 👯 Looking to collaborate on Cloud Compuating about cross-correlation.
 - 🔭 Interested in seismology and DAS. Recent focus on ambient noise montoring and imaging.

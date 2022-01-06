@@ -13,14 +13,14 @@
 
 I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 
-- 🔭 Interested in seismology and DAS. Recent focus on ambient noise montoring and imaging.
-- 👯 Looking to collaborate on Cloud Compuating about cross-correlation.
-- 🤔 Currently looking for a PhD. position in US.
-- 🎓 Used to be a college student at OUC, but now I'm a USTC Student.
 - 💬 Ask me about seismology.
 - 📫 How to reach me: yinfu@mail.ustc.edu.cn.
+- 🤔 Currently looking for a PhD. position in US.
 - ⛵ Encouraging people for open source collaborations.
-- ⚡ Fun fact: I'm a remote employee from Shanghai to Shenzhen :)
+- 🎓 Used to be a college student at OUC, but now I'm a USTC Student.
+- 👯 Looking to collaborate on Cloud Compuating about cross-correlation.
+- 🔭 Interested in seismology and DAS. Recent focus on ambient noise montoring and imaging.
+- ⚡ Fun fact: I'm single.
 - ✍🏻 I will write my personal thoughts on Programming & Seis in my Personal Blog...(working on it)
 - 🎵 By the way, I'm a big fan of Taylor Swift and Jay Chou!
 

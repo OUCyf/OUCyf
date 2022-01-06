@@ -38,7 +38,7 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OUCyf&repo=MCMTpy&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/OUCyf/MCMTpy)
      
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OUCyf&repo=SeisFlow&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/OUCyf/SeisFlow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OUCyf&repo=NoiseCC&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/OUCyf/NoiseCC)
      
 </details>
 

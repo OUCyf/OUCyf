@@ -5,7 +5,7 @@
 -->
 
 <img align="right" 
-     src="https://github-readme-stats.vercel.app/api?username=OUCyf&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" width="45%" height="45%" />
+     src="https://github-readme-stats.vercel.app/api?username=OUCyf&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" width="47%" height="47%" />
 
 
 

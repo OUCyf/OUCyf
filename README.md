@@ -1,12 +1,13 @@
 <!--
 <img align="right" 
      src="https://github-readme-stats.vercel.app/api?username=OUCyf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+&hide_border=true
 -->
 
 <img align="right" 
-     src="https://github-readme-stats.vercel.app/api?username=OUCyf&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true" />
+     src="https://github-readme-stats.vercel.app/api?username=OUCyf&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 <img align="right" 
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=OUCyf&layout=compact&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true" />
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=OUCyf&layout=compact&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
 
 ### Hi there 👋

@@ -24,11 +24,15 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 - ✍🏻 I will write my personal thoughts on Programming & Seis in my Personal Blog...(working on it)
 
 <details>
-     <summary> ✨ Open Source Software ✨ </summary>
+     <summary> ✨ Most used Languages ✨ </summary>
      <br>
-<img align="right" 
+<img align="left" 
      src="https://github-readme-stats.vercel.app/api/top-langs?username=OUCyf&layout=compact&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
-     
+</details>    
+
+<details>
+     <summary> ✨ Open-Source Software ✨ </summary>
+     <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OUCyf&repo=MCMTpy&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/OUCyf/MCMTpy)
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OUCyf&repo=SeisFlow&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/OUCyf/SeisFlow)

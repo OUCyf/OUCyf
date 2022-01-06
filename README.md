@@ -14,15 +14,16 @@
 
 I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 Interested in seismology and DAS. Recent focus on ambient noise montoring and imaging.
+- 👯 Looking to collaborate on Cloud Compuating about cross-correlation.
+- 🤔 Currently looking for a PhD. position in US.
+- 🎓 Used to be a college student at OUC, but now I'm a USTC Student.
+- 💬 Ask me about seismology.
+- 📫 How to reach me: yinfu@mail.ustc.edu.cn.
+- ⛵ Encouraging people for open source collaborations.
+- ⚡ Fun fact: I'm a remote employee from Shanghai to Shenzhen :)
+- ✍🏻 I will write my personal thoughts on Programming & Seis in my Personal Blog...(working on it)
+- 🎵 By the way, I'm a big fan of Taylor Swift and Jay Chou!
 
 
 <details>
@@ -35,6 +36,6 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 </details>
 
 ###
-[Email @ yinfu@mail.ustc.edu.dn](/) | [Twitter](https://twitter.com/Anthony_YFU) | [WeChat @ YinFu976360504](/)
+[Email @ yinfu@mail.ustc.edu.cn](/) | [Twitter](https://twitter.com/Anthony_YFU) | [WeChat @ YinFu976360504](/)
 
 

@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
+I'm **Fu Yin**, a geophysics graduate student.
 
 - 💬 Ask me about seismology.
 - 📫 How to reach me: yinfu@mail.ustc.edu.cn.
@@ -20,7 +20,7 @@ I'm ✨ _**Fu Yin**_ ✨, a geophysics graduate student.
 - 🎵 By the way, I'm a big fan of Taylor Swift and Jay Chou!
 - 🎓 Used to be a college student at OUC, but now I'm a USTC Student.
 - 👯 Looking to collaborate on Cloud Compuating about cross-correlation.
-- 🔭 Interested in seismology and DAS. Recent focus on ambient noise montoring and imaging.
+- 🔭 Interested in seismology and DAS. Recently focus on ambient noise monitoring and imaging.
 - ✍🏻 I will write my personal thoughts on Programming & Seismology in my Personal Blog...(working)
 
 <details>

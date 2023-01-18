@@ -14,7 +14,7 @@
 I'm **Fu Yin**, a geophysics graduate student.
 
 - 💬 Ask me about seismology.
-- - 👯 Looking to collaborate on Cloud Compuating.
+- 👯 Looking to collaborate on Cloud Compuating.
 - 🎓 Used to be a student at USTC, now I'm a Rice Student.
 - 🔭 Interested in seismology and DAS. Recently focus on ambient noise monitoring and imaging.
 - ✍🏻 I will write my personal thoughts on Programming & Seismology in my Personal Notebook https://yinfu.info/Programming-Notebook/

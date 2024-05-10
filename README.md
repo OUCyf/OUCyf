@@ -38,7 +38,6 @@ I'm **Fu Yin**, a geophysics graduate student.
      
 </details>
  
-###
-[Twitter](https://twitter.com/Anthony_YFU) | [WeChat @ YinFu976360504](/)
+
 
 
